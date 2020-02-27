@@ -1,2 +1,2 @@
 # Open Source @ Rewe Digital
-- hey there, please visit https://rewe-digital.github.io
+- Visit https://www.rewe-digital.com/inside-rewe-digital.html
