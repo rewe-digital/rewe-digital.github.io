@@ -1,2 +1,2 @@
-# Open Source @ Rewe Digital
-- Visit https://www.rewe-digital.com/inside-stories.html
+# Open Source @ REWE digital
+- Visit [rewe-digital.com](https://rewe-digital.com)
